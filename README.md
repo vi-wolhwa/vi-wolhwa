@@ -1,54 +1,4 @@
-<svg width="820" height="240" viewBox="0 0 820 240" fill="none" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
-  <defs>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#89F7FE"/>
-      <stop offset="100%" stop-color="#66A6FF"/>
-    </linearGradient>
-    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#89F7FE" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#66A6FF" stop-opacity="0.4"/>
-    </linearGradient>
-  </defs>
-
-  <!-- card -->
-  <rect x="1.5" y="1.5" width="817" height="237" rx="22" fill="#0D1117" stroke="url(#ring)" stroke-width="1.5"/>
-
-  <!-- macOS window dots -->
-  <circle cx="34" cy="34" r="7" fill="#FF5F57"/>
-  <circle cx="58" cy="34" r="7" fill="#FEBC2E"/>
-  <circle cx="82" cy="34" r="7" fill="#28C840"/>
-
-  <!-- right monogram -->
-  <circle cx="712" cy="120" r="62" fill="none" stroke="url(#accent)" stroke-width="2" stroke-opacity="0.5"/>
-  <text x="712" y="134" text-anchor="middle" font-size="46" font-weight="700" fill="url(#accent)">SN</text>
-
-  <!-- name -->
-  <text x="40" y="104" font-size="40" font-weight="700" fill="#F0F6FC">Soomin Nam</text>
-
-  <!-- role -->
-  <text x="42" y="140" font-size="20" font-weight="600" fill="url(#accent)">Frontend &#8594; Full-Stack Developer</text>
-
-  <!-- tagline -->
-  <text x="42" y="168" font-size="14.5" fill="#8B949E">Building large-scale, user-facing web services.</text>
-
-  <!-- tag chips -->
-  <g font-size="13" font-weight="600">
-    <rect x="42" y="186" width="74" height="28" rx="14" fill="none" stroke="url(#accent)" stroke-opacity="0.6"/>
-    <text x="79" y="204" text-anchor="middle" fill="#C9D1D9">React</text>
-
-    <rect x="124" y="186" width="104" height="28" rx="14" fill="none" stroke="url(#accent)" stroke-opacity="0.6"/>
-    <text x="176" y="204" text-anchor="middle" fill="#C9D1D9">TypeScript</text>
-
-    <rect x="236" y="186" width="80" height="28" rx="14" fill="none" stroke="url(#accent)" stroke-opacity="0.6"/>
-    <text x="276" y="204" text-anchor="middle" fill="#C9D1D9">Next.js</text>
-
-    <rect x="324" y="186" width="108" height="28" rx="14" fill="none" stroke="url(#accent)" stroke-opacity="0.6"/>
-    <text x="378" y="204" text-anchor="middle" fill="#C9D1D9">Spring Boot</text>
-  </g>
-
-  <!-- slogan -->
-  <text x="588" y="206" font-size="15" font-weight="700" font-style="italic" fill="url(#accent)">Just Do It.</text>
-</svg>
+# README.md 공사 중
 
 <!-- ===================== ① HEADER : venom 슬로건 (고정) ===================== -->
 <p align="center">
@@ -75,27 +25,41 @@
 ## 👋 About Me
  
 <div align="center">
-**프론트엔드에서 풀스택으로 나아가는 개발자, 남수민입니다** 🚀
+<b>프론트엔드에서 풀스택으로 나아가는 개발자, 남수민입니다</b> 🚀
  
 <sub>대규모 서비스의 성능과 사용자 경험에 진심입니다 · 늦게 시작했지만, 빠르게 성장하는 중</sub>
  
-<p>
-  <img src="https://img.shields.io/badge/Frontend%20%E2%86%92%20Full--Stack-66A6FF?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Seoul%2C%20KR-89F7FE?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Learning%20Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Re%3AZero-8B5CF6?style=for-the-badge&labelColor=0D1117" />
-</p>
+<br/><br/>
+ 
+<!-- ▼▼ [스타일 ①] [스타일 ②] [스타일 ③] 중 하나만 남기고 나머지 블록은 지우세요 ▼▼ -->
+ 
+<!-- [스타일 ①] 움직이는 이모지 · Animated Fluent Emoji -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="30" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="30" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Crescent%20Moon.png" width="30" />
+<!-- [스타일 ②] 컬러 브랜드 로고 · Devicon -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" height="42" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="42" height="42" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="42" height="42" />
+ 
+<!-- [스타일 ③] 디자인 카드 · 커스텀 SVG (레포에 assets/about-card.svg 추가 필요) -->
+<img src="./assets/about-card.svg" width="660" alt="Soomin Nam — Frontend to Full-Stack Developer" />
+<!-- ▲▲ 여기까지 선택 영역 ▲▲ -->
+ 
 </div>
-
-- 🔭 **지금** : KOSA `MSA 기반 풀스택 개발자 양성 과정`에서 백엔드로 영역 확장 중
-- 🌱 **관심** : 대규모 서비스의 프론트엔드 성능 최적화 & 풀스택 아키텍처
-- 🛠️ **만드는 중** : 인증 UI 서비스 `evenly`, macOS Ventura 감성의 개인 기술 블로그
-- 💬 **편하게** : 프론트엔드 / 성능 / 협업 도구 이야기라면 언제든
-- ⚡ **취향** : 애니·라이트노벨(특히 Re:Zero) 🌙
-
-> [!NOTE]
-> "코드는 결국 사람을 위한 것" — 사용자와 동료 모두에게 좋은 경험을 남기는 개발을 지향합니다.
-
+🔭 &nbsp;&nbsp;<b>지금</b> &nbsp;—&nbsp; KOSA <kbd>&nbsp;MSA 풀스택 과정&nbsp;</kbd>에서 백엔드로 영역을 넓히는 중<br/>
+🌱 &nbsp;&nbsp;<b>관심</b> &nbsp;—&nbsp; 대규모 서비스의 프론트엔드 성능 최적화 · 풀스택 아키텍처<br/>
+🛠️ &nbsp;&nbsp;<b>빌드</b> &nbsp;—&nbsp; 인증 UI 서비스 <b>evenly</b> · macOS Ventura 감성의 기술 블로그<br/>
+⚡ &nbsp;&nbsp;<b>취향</b> &nbsp;—&nbsp; 애니 · 라이트노벨, 특히 Re:Zero 🌙
+ 
+> [!TIP]
+> <i>"코드는 결국 사람을 위한 것"</i> — 사용자와 동료 모두에게 좋은 경험을 남기는 개발을 지향합니다.
+ 
 <br/>
 
 <!-- ===================== ⑤ TECH STACK (옵션 A: skillicons 한 줄) ===================== -->
