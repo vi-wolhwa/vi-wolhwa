@@ -29,15 +29,15 @@
     <text x="26" y="84" fill="#3B4261">1</text>
     <text x="54" y="84"><tspan fill="#7AA2F7">const </tspan><tspan fill="#C0CAF5">developer </tspan><tspan fill="#89DDFF">= </tspan><tspan fill="#C0CAF5">{</tspan></text>
     <text x="26" y="110" fill="#3B4261">2</text>
-    <text x="54" y="110"><tspan fill="#7DCFFF">  name: </tspan><tspan fill="#9ECE6A">"남수민 (Sumin Nam)"</tspan><tspan fill="#89DDFF">,</tspan></text>
+    <text x="72" y="110"><tspan fill="#7DCFFF">name: </tspan><tspan fill="#9ECE6A">"남수민 (Sumin Nam)"</tspan><tspan fill="#89DDFF">,</tspan></text>
     <text x="26" y="136" fill="#3B4261">3</text>
-    <text x="54" y="136"><tspan fill="#7DCFFF">  role: </tspan><tspan fill="#9ECE6A">"Frontend → Full-Stack"</tspan><tspan fill="#89DDFF">,</tspan></text>
+    <text x="72" y="136"><tspan fill="#7DCFFF">role: </tspan><tspan fill="#9ECE6A">"Frontend → Full-Stack"</tspan><tspan fill="#89DDFF">,</tspan></text>
     <text x="26" y="162" fill="#3B4261">4</text>
-    <text x="54" y="162"><tspan fill="#7DCFFF">  univ: </tspan><tspan fill="#9ECE6A">"전남대학교 소프트웨어공학과"</tspan><tspan fill="#89DDFF">,</tspan></text>
+    <text x="72" y="162"><tspan fill="#7DCFFF">univ: </tspan><tspan fill="#9ECE6A">"전남대학교 소프트웨어공학과"</tspan><tspan fill="#89DDFF">,</tspan></text>
     <text x="26" y="188" fill="#3B4261">5</text>
-    <text x="54" y="188"><tspan fill="#7DCFFF">  edu: </tspan><tspan fill="#9ECE6A">"우아한테크코스 FE (24.02. ~ 24.11.)"</tspan><tspan fill="#89DDFF">,</tspan></text>
+    <text x="72" y="188"><tspan fill="#7DCFFF">edu: </tspan><tspan fill="#9ECE6A">"우아한테크코스 FE (24.02. ~ 24.11.)"</tspan><tspan fill="#89DDFF">,</tspan></text>
     <text x="26" y="214" fill="#3B4261">6</text>
-    <text x="54" y="214"><tspan fill="#7DCFFF">  work: </tspan><tspan fill="#9ECE6A">"카카오페이증권 (25.02. ~ 25.08.)"</tspan><tspan fill="#89DDFF">,</tspan></text>
+    <text x="72" y="214"><tspan fill="#7DCFFF">work: </tspan><tspan fill="#9ECE6A">"카카오페이증권 (25.02. ~ 25.08.)"</tspan><tspan fill="#89DDFF">,</tspan></text>
     <text x="26" y="240" fill="#3B4261">7</text>
     <text x="54" y="240"><tspan fill="#C0CAF5">}</tspan></text>
     <text x="26" y="266" fill="#3B4261">~</text>
