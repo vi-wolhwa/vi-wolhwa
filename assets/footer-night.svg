@@ -1,0 +1,7 @@
+<svg width="820" height="70" viewBox="0 0 820 70" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="818" height="68" rx="12" fill="#1A1B26" stroke="#2A3158" stroke-width="1.5"/>
+  <circle cx="42" cy="35" r="12" fill="#E6ECFF"/>
+  <text x="70" y="40" font-family="'DejaVu Sans Mono',monospace" font-size="14" fill="#9ECE6A">:wq</text>
+  <text x="410" y="40" text-anchor="middle" font-family="'DejaVu Sans Mono',monospace" font-size="14" fill="#7DCFFF">— Just Do It. —</text>
+  <text x="780" y="40" text-anchor="end" font-family="'DejaVu Sans Mono',monospace" font-size="13" fill="#565F89">vi-wolhwa</text>
+</svg>

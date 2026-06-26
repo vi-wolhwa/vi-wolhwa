@@ -1,0 +1,8 @@
+<svg width="820" height="66" viewBox="0 0 820 66" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="818" height="64" rx="12" fill="#F6F8FC" stroke="#CFD6E4" stroke-width="1.5"/>
+  <circle cx="38" cy="33" r="13" fill="#EDD27A"/>
+  <text x="66" y="41" font-family="'Noto Sans CJK KR',sans-serif" font-size="20" font-weight="700" fill="#3760BF">Connect</text>
+  <text x="804" y="29" text-anchor="end" font-family="'Noto Sans Mono CJK KR',monospace" font-size="12" fill="#848CB5">05 / 05</text>
+  <rect x="694" y="38" width="110" height="4" rx="2" fill="#CFD6E4"/>
+  <rect x="694" y="38" width="110" height="4" rx="2" fill="#2E7DE9"/>
+</svg>

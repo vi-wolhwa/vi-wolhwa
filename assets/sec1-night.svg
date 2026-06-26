@@ -1,0 +1,8 @@
+<svg width="820" height="66" viewBox="0 0 820 66" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="818" height="64" rx="12" fill="#1A1B26" stroke="#2A3158" stroke-width="1.5"/>
+  <circle cx="38" cy="33" r="13" fill="#E6ECFF"/><circle cx="30" cy="33" r="13" fill="#1A1B26"/>
+  <text x="66" y="41" font-family="'Noto Sans CJK KR',sans-serif" font-size="20" font-weight="700" fill="#C0CAF5">About</text>
+  <text x="804" y="29" text-anchor="end" font-family="'Noto Sans Mono CJK KR',monospace" font-size="12" fill="#565F89">01 / 05</text>
+  <rect x="694" y="38" width="110" height="4" rx="2" fill="#2A3158"/>
+  <rect x="694" y="38" width="22" height="4" rx="2" fill="#7AA2F7"/>
+</svg>

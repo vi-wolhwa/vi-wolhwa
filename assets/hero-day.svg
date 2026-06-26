@@ -1,0 +1,50 @@
+<svg width="820" height="300" viewBox="0 0 820 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="mg" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FCE0A0" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#FCE0A0" stop-opacity="0"/>
+    </radialGradient>
+  <radialGradient id="moonDay" cx="50%" cy="42%" r="72%"><stop offset="0%" stop-color="#FFFBE6"/><stop offset="52%" stop-color="#F8E69C"/><stop offset="100%" stop-color="#E5CC68"/></radialGradient></defs>
+
+  <!-- window -->
+  <rect x="1" y="1" width="818" height="298" rx="16" fill="#F6F8FC" stroke="#CFD6E4" stroke-width="1.5"/>
+
+  <!-- title / tab bar -->
+  <line x1="1" y1="40" x2="819" y2="40" stroke="#E1E6F0" stroke-width="1"/>
+  <rect x="16" y="9" width="150" height="24" rx="6" fill="#E9EDF6"/>
+  <circle cx="30" cy="21" r="3.5" fill="#587539"/>
+  <text x="42" y="25" font-family="'Noto Sans Mono CJK KR',monospace" font-size="12" fill="#3760BF">vi-wolhwa.md</text>
+  <text x="802" y="25" text-anchor="end" font-family="'Noto Sans Mono CJK KR',monospace" font-size="12" fill="#848CB5">月下</text>
+
+  <!-- moon (crescent path) + glow + stars -->
+  <circle cx="722" cy="110" r="66" fill="url(#mg)"/>
+  <path d="M 732 76.92 A 27 27 0 1 0 732 127.08 A 27 27 0 0 1 732 76.92 Z" fill="url(#moonDay)"/>
+  <g fill="#3760BF">
+    <circle cx="640" cy="70" r="1.4" opacity="0.7"/><circle cx="690" cy="150" r="1.2" opacity="0.5"/>
+    <circle cx="780" cy="160" r="1.3" opacity="0.6"/><circle cx="600" cy="120" r="1" opacity="0.45"/>
+  </g>
+
+  <!-- code -->
+  <g font-family="'Noto Sans Mono CJK KR',monospace" font-size="14.5">
+    <text x="26" y="84" fill="#9AA1B4">1</text>
+    <text x="54" y="84"><tspan fill="#2E7DE9">const </tspan><tspan fill="#3760BF">developer </tspan><tspan fill="#006A83">= </tspan><tspan fill="#3760BF">{</tspan></text>
+    <text x="26" y="110" fill="#9AA1B4">2</text>
+    <text x="54" y="110"><tspan fill="#007197">  name:   </tspan><tspan fill="#587539">"남수민"</tspan><tspan fill="#006A83">,</tspan></text>
+    <text x="26" y="136" fill="#9AA1B4">3</text>
+    <text x="54" y="136"><tspan fill="#007197">  handle: </tspan><tspan fill="#587539">"vi-wolhwa"</tspan><tspan fill="#006A83">,</tspan></text>
+    <text x="26" y="162" fill="#9AA1B4">4</text>
+    <text x="54" y="162"><tspan fill="#007197">  role:   </tspan><tspan fill="#587539">"Frontend → Full-Stack"</tspan><tspan fill="#006A83">,</tspan></text>
+    <text x="26" y="188" fill="#9AA1B4">5</text>
+    <text x="54" y="188"><tspan fill="#3760BF">}</tspan></text>
+    <text x="26" y="214" fill="#9AA1B4">~</text>
+    <rect x="54" y="202" width="8" height="15" fill="#007197" opacity="0.9"/>
+  </g>
+
+  <!-- status line -->
+  <rect x="14" y="262" width="792" height="26" rx="8" fill="#E9EDF6"/>
+  <rect x="20" y="266" width="64" height="18" rx="4" fill="#2E7DE9"/>
+  <text x="52" y="279" text-anchor="middle" font-family="'Noto Sans Mono CJK KR',monospace" font-size="11" font-weight="700" fill="#F6F8FC">NORMAL</text>
+  <text x="94" y="279" font-family="'Noto Sans Mono CJK KR',monospace" font-size="11.5" fill="#5A6178">vi-wolhwa</text>
+  <text x="410" y="279" text-anchor="middle" font-family="'Noto Sans Mono CJK KR',monospace" font-size="12" fill="#007197">-- Just Do It. --</text>
+  <text x="800" y="279" text-anchor="end" font-family="'Noto Sans Mono CJK KR',monospace" font-size="11.5" fill="#5A6178">月下 · utf-8</text>
+</svg>
