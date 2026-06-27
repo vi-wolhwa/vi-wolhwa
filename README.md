@@ -3,10 +3,11 @@
 <!-- ========================= TYPING ========================= -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gowun+Dodum&size=32&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&height=50&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+FE+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EB%82%A8%EC%88%98%EB%AF%BC%EC%9E%85%EB%8B%88%EB%8B%A4.+;%EB%8A%A6%EA%B2%8C+%EC%8B%9C%EC%9E%91%ED%96%88%EC%A7%80%EB%A7%8C%2C+%EB%B9%A0%EB%A5%B4%EA%B2%8C+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EC%A4%91%21;AudeModo%2C+Evenly+%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8+%EC%A0%88%EC%B0%AC%EB%A6%AC+%EC%A7%84%ED%96%89+%EC%A4%91%21" />
-    <img src="https://readme-typing-svg.demolab.com?font=Gowun+Dodum&size=32&duration=3500&pause=900&color=2E7DE9&center=true&vCenter=true&width=720&height=50&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+FE+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EB%82%A8%EC%88%98%EB%AF%BC%EC%9E%85%EB%8B%88%EB%8B%A4.+;%EB%8A%A6%EA%B2%8C+%EC%8B%9C%EC%9E%91%ED%96%88%EC%A7%80%EB%A7%8C%2C+%EB%B9%A0%EB%A5%B4%EA%B2%8C+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EC%A4%91%21;AudeModo%2C+Evenly+%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8+%EC%A0%88%EC%B0%AC%EB%A6%AC+%EC%A7%84%ED%96%89+%EC%A4%91%21" alt="Hello! I'm Soomin Nam, a frontend developer." />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gowun+Dodum&size=28&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&height=50&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+FE+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EB%82%A8%EC%88%98%EB%AF%BC%EC%9E%85%EB%8B%88%EB%8B%A4.;%EC%B6%9C%EB%B0%9C%EC%9D%B4+%EB%8A%A6%EC%97%88%EB%8B%A4%EB%A9%B4%2C+%EB%8D%94+%EC%97%B4%EC%8B%AC%ED%9E%88+%EB%8B%AC%EB%A6%AC%EB%A9%B4+%EB%8F%BC.;%EC%B2%9C%EC%B2%9C%ED%9E%88%2C+%EA%BE%B8%EC%A4%80%ED%9E%88%2C+Just+Do+It%21" />
+    <img src="https://readme-typing-svg.demolab.com?font=Gowun+Dodum&size=28&duration=3000&pause=900&color=2E7DE9&center=true&vCenter=true&width=720&height=50&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+FE+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EB%82%A8%EC%88%98%EB%AF%BC%EC%9E%85%EB%8B%88%EB%8B%A4.;%EC%B6%9C%EB%B0%9C%EC%9D%B4+%EB%8A%A6%EC%97%88%EB%8B%A4%EB%A9%B4%2C+%EB%8D%94+%EC%97%B4%EC%8B%AC%ED%9E%88+%EB%8B%AC%EB%A6%AC%EB%A9%B4+%EB%8F%BC.;%EC%B2%9C%EC%B2%9C%ED%9E%88%2C+%EA%BE%B8%EC%A4%80%ED%9E%88%2C+Just+Do+It%21" alt="Hello! I'm Soomin Nam, a frontend developer." />
   </picture>
 </div>
+
 
 <br/>
 <br/>
@@ -42,7 +43,23 @@
 <br/>
 <br/>
 
-작성 중~~
+&nbsp; &nbsp; &nbsp; &nbsp; 개발하고 싶은 것들이 너무나 많은 프론트엔드 개발자입니다. <br/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 우아한테크코스와 카카오페이증권에서 FE 역량을 쌓았습니다. <br/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 현재는 FE 개발자 취업을 준비하고 있습니다. <br/>
+
+&nbsp; &nbsp; &nbsp; &nbsp; 인턴 이후, 취업을 준비하는 동안 방황하는 시간이 길었지만, <br/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 저의 커리어 목표를 찾은 이후, 더 열심히 Step Up 중입니다. <br/>
+
+&nbsp; &nbsp; &nbsp; &nbsp; 현재 세 가지 프로젝트를 진행하고 있습니다.<br/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 나만의 개발 생태계를 구축하는 `AudeModo`,<br/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; FE 역량 성장을 위하여 멘토님과 함께하는 `Evenly`,<br/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 반응형 렌더링 패키지 `@audemono/responsive-keepalive`
+
+&nbsp; &nbsp; &nbsp; &nbsp; 최근에는 오래 전부터 관심이 있었던 Spring를 공부하고 있습니다.<br/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 하고 싶은 것들에 비해 할 수 있는 시간은 그리 많지 않지만,<br/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 천천히, 꾸준히, 목표를 향해 정진합니다.<br/>
+
+&nbsp; &nbsp; &nbsp; &nbsp; Just Do It!<br/>
 
 <br/>
 <br/>
@@ -75,7 +92,6 @@
 </picture>
 
 <br/>
-<br/>
 
 #### &nbsp;&nbsp;&nbsp;&nbsp; 🌐 AudeModo ([Repo](https://github.com/AudeModo)) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 소개 : 앱을 계속 쌓아올리는 프론트엔드 플랫폼 생태계 ([role-model](https://github.com/HoBom-s))<br/>
@@ -102,6 +118,11 @@
 </picture>
 
 <br/>
+<br/>
+
+> [!IMPORTANT]
+> *모든 프로젝트는 조직 레포를 통해 진행합니다. 조직 기여 표시 방법 찾는 중..*
+
 <br/>
 
 <div align="center">
