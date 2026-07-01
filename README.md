@@ -42,22 +42,21 @@
 <br/>
 
 &nbsp; &nbsp; &nbsp; &nbsp; 개발하고 싶은 것들이 너무나 많은 프론트엔드 개발자입니다. <br/>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 우아한테크코스와 카카오페이증권에서 FE 역량을 쌓았습니다. <br/>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 현재는 FE 개발자 취업을 준비하고 있습니다. <br/>
+&nbsp; &nbsp; &nbsp; &nbsp; 우아한테크코스와 카카오페이증권에서 FE 역량을 쌓았습니다. <br/>
+&nbsp; &nbsp; &nbsp; &nbsp; 현재는 웹 개발자로서 취업을 준비하고 있습니다. <br/>
 
 &nbsp; &nbsp; &nbsp; &nbsp; 인턴 이후, 취업을 준비하는 동안 방황하는 시간이 길었지만, <br/>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 저의 커리어 목표를 찾은 이후, 더 열심히 Step Up 중입니다. <br/>
+&nbsp; &nbsp; &nbsp; &nbsp; 저의 커리어 목표를 찾은 이후, 더 열심히 Step Up 중입니다. <br/>
 
-&nbsp; &nbsp; &nbsp; &nbsp; 현재 세 가지 프로젝트를 진행하고 있습니다.<br/>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 나만의 개발 생태계를 구축하는 `AudeModo`,<br/>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; FE 역량 성장을 위하여 멘토님과 함께하는 `Evenly`,<br/>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 반응형 렌더링 패키지 `@audemono/responsive-keepalive`
+&nbsp; &nbsp; &nbsp; &nbsp; 나만의 개발 생태계를 구축하는 `AudeModo` 프로젝트를 시작했습니다.<br/>
+&nbsp; &nbsp; &nbsp; &nbsp; `@audemodo/responsive-keepalive`는 `AudeModo`의 첫 걸음으로서,<br/>
+&nbsp; &nbsp; &nbsp; &nbsp; 외부 의존은 최소화하고 필요한 기능은 직접 구현한다는 철학을 담았습니다.<br/>
 
-&nbsp; &nbsp; &nbsp; &nbsp; 최근에는 오래 전부터 관심이 있었던 Spring를 공부하고 있습니다.<br/>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 하고 싶은 것들에 비해 할 수 있는 시간은 그리 많지 않지만,<br/>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 천천히, 꾸준히, 목표를 향해 정진합니다.<br/>
+&nbsp; &nbsp; &nbsp; &nbsp; 최근에는 오래 전부터 관심이 있었던 Java/Spring을 공부하고 있습니다.<br/>
+&nbsp; &nbsp; &nbsp; &nbsp; 하고 싶은 것들에 비해 할 수 있는 시간은 그리 많지 않지만,<br/>
+&nbsp; &nbsp; &nbsp; &nbsp; 천천히, 꾸준히, 목표를 향해 정진합니다.<br/>
 
-&nbsp; &nbsp; &nbsp; &nbsp; Just Do It!<br/>
+&nbsp; &nbsp; &nbsp; &nbsp; Just Do It.<br/>
 
 <br/>
 <br/>
@@ -94,17 +93,17 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp; 🌐 AudeModo ([Repo](https://github.com/AudeModo)) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 소개 : 앱을 계속 쌓아올리는 프론트엔드 플랫폼 생태계 ([role-model](https://github.com/HoBom-s))<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 기간 : 2026.06. ~ 2099.01.01 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 목적 : 나만의 생태계 구축 (아키텍처 설계, edge·BFF·서버 소유, 멀티 앱 통합 등) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 목표 : 나만의 생태계 구축 (아키텍처 설계, edge·BFF·서버 소유, 멀티 앱 통합 등) <br/>
 
 #### &nbsp;&nbsp;&nbsp;&nbsp; 💰 Evenly ([Repo](https://github.com/EvenlyTeam/evenly-frontend)) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 소개 : 더치페이·모임 정산기 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 기간 : 2026.06. ~ (Continue..) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 목적 : FE 역량 향상 (동적 폼 상태 관리, 인증 상태 관리, 정산 결과 시각화 등) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 목표 : FE 역량 향상 (동적 폼 상태 관리, 인증 상태 관리, 정산 결과 시각화 등) <br/>
 
 #### &nbsp;&nbsp;&nbsp;&nbsp; 🖼️ @audemodo/responsive-keepalive ([Repo](https://github.com/AudeModo/audemodo-responsive-keepalive)) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 소개 : breakpoint마다 구조가 다른 레이아웃을 상태 손실 없이 전환하는 React 라이브러리 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 기간 : 2026.06. ~ 현재(v0.1.0(beta) 배포 완료, Issue 수렴 중) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 목적 : 오픈소스 npm 패키지 설계·배포 (React 19.2 Activity 상태 보존, ESM·CJS 듀얼 빌드, SSR·하이드레이션 대응 등) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 기간 : 2026.06. ~ 현재(v0.1.0(beta) 배포 완료, 커뮤니티를 통해 코드리뷰 받는 중) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 목표 : 오픈소스 npm 패키지 설계·배포 (React 19.2 Activity 상태 보존, ESM·CJS 듀얼 빌드, SSR·하이드레이션 대응 등) <br/>
 
 <br/>
 <br/>
