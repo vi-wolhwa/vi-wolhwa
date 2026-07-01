@@ -72,8 +72,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,js,react,tailwind,java,git,figma,css,ts,nextjs,sass,spring,github,notion&theme=dark&perline=7" />
-    <img src="https://skillicons.dev/icons?i=html,js,react,tailwind,java,git,css,ts,nextjs,sass,spring,github&theme=light&perline=7" alt="Tech stack icons" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,js,react,tailwind,java,git,github,figma,css,ts,nextjs,sass,spring,notion&theme=dark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,js,react,tailwind,java,git,github,css,ts,nextjs,sass,spring&theme=light&perline=7" alt="Tech stack icons" />
   </picture>
   <br/><br/>
   <sub>🌱 &nbsp;<b>Currently Learning</b> &nbsp;·&nbsp; Java &nbsp;·&nbsp; Spring Boot</sub>
