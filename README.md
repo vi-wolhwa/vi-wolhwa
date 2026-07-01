@@ -103,7 +103,7 @@
 
 #### &nbsp;&nbsp;&nbsp;&nbsp; 🖼️ @audemodo/responsive-keepalive ([Repo](https://github.com/AudeModo/audemodo-responsive-keepalive)) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 소개 : breakpoint마다 구조가 다른 레이아웃을 상태 손실 없이 전환하는 React 라이브러리 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 기간 : 2026.06. ~ (Continue..) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 기간 : 2026.06. ~ 현재(v0.1.0(beta) 배포 완료, Issue 수렴 중) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 목적 : 오픈소스 npm 패키지 설계·배포 (React 19.2 Activity 상태 보존, ESM·CJS 듀얼 빌드, SSR·하이드레이션 대응 등) <br/>
 
 <br/>
